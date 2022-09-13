@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "title": "Soft Boiled Egg",
+      "ingredients": "egg, water",
+      "instructions":
+        "put water into a pot, boil an egg in the water for about 20 minutes, pick the egg",
+      "source_url": "",
+      "image_url": ""
+    },
+    {
+      "id": 2,
+      "title": "Soft Boiled Egg",
+      "ingredients": "egg, water",
+      "instructions":
+        "put water into a pot, boil an egg in the water for about 20 minutes, pick the egg",
+      "source_url": "",
+      "image_url": ""
+    }
+  ]

@@ -1,0 +1,91 @@
+$caramel: #ffd59a;
+$bitter-chocolate: #251611;
+$chocolate-pudding: #644638;
+$red-velvet: #7f2a3c;
+$carrot: #ed9121;
+$green-tea: #86a96f;
+
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+$paytone-one: 'Paytone One', sans-serif;
+
+button-1 {
+  background: $red-velvet;
+  box-shadow: 0 0 1px rgba($red-velvet, 0.25);
+  color: #fff;
+}
+
+.header {
+    background-color: $bitter-chocolate;
+    height: 50px;
+}
+
+.header-font {
+    margin-left: 20px;
+    color: $caramel;
+    font-family: $paytone-one;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+h3 {
+  color: $caramel;
+  margin-bottom: 20px;
+}
+
+.body {
+  background-color: $chocolate-pudding;
+}
+
+.table {
+    color: $caramel !important;
+}
+
+.recipe-card {
+    background-color: $bitter-chocolate;
+    color: $caramel
+}
+
+.modal-header {
+  background-color: $bitter-chocolate;
+  color: $caramel;
+}
+
+.modal-body {
+  background-color: $chocolate-pudding;
+  color: $caramel;
+}
+
+.button-danger {
+  background-color: $red-velvet !important;
+}
+
+.button-warning {
+  background-color: $carrot !important;
+}
+
+.button-success {
+  background-color: $green-tea !important;
+}
+
+.invalid-feedback {
+    color: $caramel !important;
+}
+// .btn {
+//     background: $bitter-chocolate !important;
+//     color: $caramel !important;
+// }
+
+// .btn {
+//     width: 120px;
+//     height: 40px;
+//     font-size: 20px;
+//     border-radius: 5px;
+//     margin-top: 20px;
+//     background: rgb(199, 23, 23);
+//     color: $caramel !important;
+//     border: none;
+//     border-color: $caramel !important;
+//   &:hover {
+//       background: rgb(228, 49, 49);
+//     }
+//   }
